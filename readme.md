@@ -29,9 +29,5 @@ This application was developed during [Jonas Schmedtmann's JavaScript Course](ht
 - **Parcel Bundler**: For bundling and building the application.
 - **APIs**: Integration with recipe APIs for fetching recipe data.
 
-### Usage
-
-1. [Click Here To Open Application](https://forkify-abuoelezz.vercel.app/). 
-
 #
 **Enjoy exploring and cooking with Forkify!**
